@@ -13,3 +13,12 @@ def f(a):
 
 f(arr.copy())
 print(arr)
+
+print('apple'[0:1])
+flag=0
+while True:
+    flag+=1
+    print('1')
+    break
+else:
+    print('a')
