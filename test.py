@@ -7,12 +7,14 @@
 @file: test.py
 @time: 2020/1/4 23:02
 '''
-arr=[1,2,3,4]
-def f(a):
-    a.pop(0)
 
-f(arr.copy())
-print(arr)
-
-print('apple'[0:1])
-flag=0
+from collections import defaultdict
+import collections
+def a():
+    a=5
+    def f():
+        nonlocal a
+        a+=3
+    f()
+    print(a)
+a()
