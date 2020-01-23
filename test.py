@@ -8,13 +8,6 @@
 @time: 2020/1/4 23:02
 '''
 
-from collections import defaultdict
-import collections
-def a():
-    a=5
-    def f():
-        nonlocal a
-        a+=3
-    f()
-    print(a)
-a()
+a='abcdef'
+print(a[1:3])
+print(a[1:3][::-1])

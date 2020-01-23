@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c485d76e-80cb-4383-a033-2e8ce2f4619c" name="Default" comment="update">
-      <change afterPath="$PROJECT_DIR$/210. Course Schedule II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/543. Diameter of Binary Tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/687. Longest Univalue Path.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/783. Minimum Distance Between BST Nodes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RBC_test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 Longest Palindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/5 Longest Palindrome.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,8 +46,8 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Python.210. Course Schedule II">
-    <configuration name="200. Number of Island" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.5 Longest Palindrome">
+    <configuration name="5 Longest Palindrome" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -56,7 +60,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/200. Number of Island.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5 Longest Palindrome.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -65,7 +69,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="210. Course Schedule II" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="543. Diameter of Binary Tree" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -78,7 +82,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/210. Course Schedule II.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/543. Diameter of Binary Tree.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -87,7 +91,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="heap_sort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="783. Minimum Distance Between BST Nodes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,7 +104,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\ALLEN_Python\LeetCode\heap_sort.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/783. Minimum Distance Between BST Nodes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -109,7 +113,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="insertion_sort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="RBC_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -122,7 +126,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/insertion_sort.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RBC_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,19 +158,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.insertion_sort" />
-      <item itemvalue="Python.200. Number of Island" />
-      <item itemvalue="Python.heap_sort" />
       <item itemvalue="Python.test" />
-      <item itemvalue="Python.210. Course Schedule II" />
+      <item itemvalue="Python.543. Diameter of Binary Tree" />
+      <item itemvalue="Python.783. Minimum Distance Between BST Nodes" />
+      <item itemvalue="Python.RBC_test" />
+      <item itemvalue="Python.5 Longest Palindrome" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.210. Course Schedule II" />
+        <item itemvalue="Python.5 Longest Palindrome" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.heap_sort" />
-        <item itemvalue="Python.200. Number of Island" />
-        <item itemvalue="Python.insertion_sort" />
+        <item itemvalue="Python.RBC_test" />
+        <item itemvalue="Python.783. Minimum Distance Between BST Nodes" />
+        <item itemvalue="Python.543. Diameter of Binary Tree" />
       </list>
     </recent_temporary>
   </component>
@@ -200,7 +204,11 @@
       <workItem from="1578418692947" duration="187000" />
       <workItem from="1578429656280" duration="6699000" />
       <workItem from="1578521900984" duration="33733000" />
-      <workItem from="1579103585110" duration="20142000" />
+      <workItem from="1579103585110" duration="34642000" />
+      <workItem from="1579289153726" duration="1862000" />
+      <workItem from="1579466067729" duration="4057000" />
+      <workItem from="1579476454745" duration="18000" />
+      <workItem from="1579628800363" duration="4824000" />
     </task>
     <task id="LOCAL-00001" summary="change readme">
       <created>1577643276460</created>
@@ -244,7 +252,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578970020606</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="update">
+      <created>1579208345330</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1579208345330</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -273,34 +288,39 @@
     <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="161" y="0" key="CommitChangelistDialog2" timestamp="1578970019832">
+    <state x="322" y="0" key="CommitChangelistDialog2" timestamp="1579743840643">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="161" y="0" key="CommitChangelistDialog2/0.0.1280.760@0.0.1280.760" timestamp="1579208344549" />
+    <state x="322" y="0" key="CommitChangelistDialog2/3840.279.1280.770/0.0.2560.1400@0.0.2560.1400" timestamp="1579743840643" />
+    <state x="421" y="136" key="FileChooserDialogImpl" timestamp="1579476470414">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="161" y="0" key="CommitChangelistDialog2/0.0.1280.760@0.0.1280.760" timestamp="1578970019832" />
-    <state x="421" y="136" key="FileChooserDialogImpl" timestamp="1578529553528">
-      <screen x="0" y="0" width="1280" height="760" />
-    </state>
-    <state x="421" y="136" key="FileChooserDialogImpl/0.0.1280.760@0.0.1280.760" timestamp="1578529553528" />
-    <state width="1238" height="157" key="GridCell.Tab.0.bottom" timestamp="1579144189614">
-      <screen x="0" y="0" width="1280" height="760" />
+    <state x="421" y="136" key="FileChooserDialogImpl/0.0.1280.760@0.0.1280.760" timestamp="1579476470414" />
+    <state width="1237" height="177" key="GridCell.Tab.0.bottom" timestamp="1579742311738">
+      <screen x="3840" y="279" width="1280" height="770" />
     </state>
     <state width="1237" height="179" key="GridCell.Tab.0.bottom/0.0.1280.760/-1920.266.1920.1040@0.0.1280.760" timestamp="1579039891405" />
-    <state width="1238" height="157" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1579144189614" />
-    <state width="1238" height="157" key="GridCell.Tab.0.center" timestamp="1579144189614">
-      <screen x="0" y="0" width="1280" height="760" />
+    <state width="1238" height="177" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1579733662980" />
+    <state width="1237" height="177" key="GridCell.Tab.0.bottom/3840.279.1280.770/0.0.2560.1400@3840.279.1280.770" timestamp="1579742311738" />
+    <state width="1237" height="177" key="GridCell.Tab.0.center" timestamp="1579742311738">
+      <screen x="3840" y="279" width="1280" height="770" />
     </state>
     <state width="1237" height="179" key="GridCell.Tab.0.center/0.0.1280.760/-1920.266.1920.1040@0.0.1280.760" timestamp="1579039891401" />
-    <state width="1238" height="157" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1579144189614" />
-    <state width="1238" height="157" key="GridCell.Tab.0.left" timestamp="1579144189613">
-      <screen x="0" y="0" width="1280" height="760" />
+    <state width="1238" height="177" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1579733662980" />
+    <state width="1237" height="177" key="GridCell.Tab.0.center/3840.279.1280.770/0.0.2560.1400@3840.279.1280.770" timestamp="1579742311738" />
+    <state width="1237" height="177" key="GridCell.Tab.0.left" timestamp="1579742311738">
+      <screen x="3840" y="279" width="1280" height="770" />
     </state>
     <state width="1237" height="179" key="GridCell.Tab.0.left/0.0.1280.760/-1920.266.1920.1040@0.0.1280.760" timestamp="1579039891401" />
-    <state width="1238" height="157" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1579144189613" />
-    <state width="1238" height="157" key="GridCell.Tab.0.right" timestamp="1579144189614">
-      <screen x="0" y="0" width="1280" height="760" />
+    <state width="1238" height="177" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1579733662976" />
+    <state width="1237" height="177" key="GridCell.Tab.0.left/3840.279.1280.770/0.0.2560.1400@3840.279.1280.770" timestamp="1579742311738" />
+    <state width="1237" height="177" key="GridCell.Tab.0.right" timestamp="1579742311738">
+      <screen x="3840" y="279" width="1280" height="770" />
     </state>
     <state width="1237" height="179" key="GridCell.Tab.0.right/0.0.1280.760/-1920.266.1920.1040@0.0.1280.760" timestamp="1579039891401" />
-    <state width="1238" height="157" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1579144189614" />
+    <state width="1238" height="177" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1579733662980" />
+    <state width="1237" height="177" key="GridCell.Tab.0.right/3840.279.1280.770/0.0.2560.1400@3840.279.1280.770" timestamp="1579742311738" />
     <state width="1238" height="203" key="GridCell.Tab.1.bottom" timestamp="1578507050188">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
@@ -317,10 +337,10 @@
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state width="1238" height="203" key="GridCell.Tab.1.right/0.0.1280.760@0.0.1280.760" timestamp="1578507050188" />
-    <state x="233" y="114" key="Vcs.Push.Dialog.v2" timestamp="1578970029967">
+    <state x="233" y="114" key="Vcs.Push.Dialog.v2" timestamp="1579208350107">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="233" y="114" key="Vcs.Push.Dialog.v2/0.0.1280.760@0.0.1280.760" timestamp="1578970029967" />
+    <state x="233" y="114" key="Vcs.Push.Dialog.v2/0.0.1280.760@0.0.1280.760" timestamp="1579208350107" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/LeetCode$quick_sort.coverage" NAME="quick sort Coverage Results" MODIFIED="1577914995464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -329,13 +349,17 @@
     <SUITE FILE_PATH="coverage/LeetCode$3_Longest_substring.coverage" NAME="3 Longest substring Coverage Results" MODIFIED="1578248988320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$print_heap.coverage" NAME="print_heap Coverage Results" MODIFIED="1578882785802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$staircase.coverage" NAME="staircase Coverage Results" MODIFIED="1578249962777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/LeetCode$test.coverage" NAME="test Coverage Results" MODIFIED="1579142704721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode$test.coverage" NAME="test Coverage Results" MODIFIED="1579629186289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$200__Number_of_Island.coverage" NAME="200. Number of Island Coverage Results" MODIFIED="1578693785817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$210__Course_Schedule_II.coverage" NAME="210. Course Schedule II Coverage Results" MODIFIED="1579144189608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode$RBC_test.coverage" NAME="RBC_test Coverage Results" MODIFIED="1579468498299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$1_Two_sum.coverage" NAME="1 Two sum Coverage Results" MODIFIED="1577922424036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$knapsack.coverage" NAME="knapsack Coverage Results" MODIFIED="1578522598221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode$5_Longest_Palindrome.coverage" NAME="5 Longest Palindrome Coverage Results" MODIFIED="1579733662944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$4.coverage" NAME="4 Coverage Results" MODIFIED="1578522775077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode$783__Minimum_Distance_Between_BST_Nodes.coverage" NAME="783. Minimum Distance Between BST Nodes Coverage Results" MODIFIED="1579242234550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1578241617270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$insertion_sort.coverage" NAME="insertion_sort Coverage Results" MODIFIED="1578622411988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode$543__Diameter_of_Binary_Tree.coverage" NAME="543. Diameter of Binary Tree Coverage Results" MODIFIED="1579231020785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
