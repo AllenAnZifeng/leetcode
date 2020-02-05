@@ -20,7 +20,7 @@ def shell_sort(arr:list):
                 if arr[j]<arr[j-h]:
                     arr[j-h],arr[j]=arr[j],arr[j-h]
         print(arr)
-        h=(h-1)//3
+        h=h//3
 
     return arr
 
