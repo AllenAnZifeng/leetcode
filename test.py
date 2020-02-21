@@ -9,9 +9,11 @@
 '''
 
 # print(['a']+['b'])
+from typing import List
 
-a=[]
-b=[1,2,3]
-print(b or a)
+from random import shuffle
 
+x={i:i+1 for i in range(10)}
 
+for i in x.keys():
+    print(i)
