@@ -61,7 +61,7 @@ class Solution:
                 if board[i][j]=='.':
                     candidate_board[(i,j)] = candidate(board,i,j)
         candidate_board = sorted(candidate_board.items(),key=lambda x:len(x[1]))
-        # print(candidate_board)
+        print(candidate_board)
         self.flag= False
         def fill(board,index):
             if index >= len(candidate_board):

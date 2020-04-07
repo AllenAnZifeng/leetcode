@@ -11,9 +11,13 @@
 # print(['a']+['b'])
 from typing import List
 
-from random import shuffle
+a=[1,2,3]
+b=[3,4,5]
+c= [6,7,8]
+d=[a,b,c]
+print(list(zip(*d)))
 
-x={i:i+1 for i in range(10)}
+l=[1,2,3,4,5,6,7]
+print(l[:2]+l[3:])
 
-for i in x.keys():
-    print(i)
+
