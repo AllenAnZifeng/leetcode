@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c485d76e-80cb-4383-a033-2e8ce2f4619c" name="Default" comment="update">
-      <change afterPath="$PROJECT_DIR$/887. Super Egg Drop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KickStart/2020/Allocation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KickStart/2020/plates.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KickStart/2020/workout.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeJam/2020/Pascal Walk.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeJam/2020/Pattern Matching.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeJam/2020/asg3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KickStart/2020/Bus Tour.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KickStart/2020/Robot Path.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CodeJam/2020/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodeJam/2020/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KickStart/2020/workout.py" beforeDir="false" afterPath="$PROJECT_DIR$/KickStart/2020/Bike Tour.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,74 +54,8 @@
       <recent name="D:\ALLEN_Python\LeetCode\Hash_Code" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.plates">
-    <configuration name="887. Super Egg Drop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="leetcode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/887. Super Egg Drop.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Indicium" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="leetcode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodeJam/2020" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodeJam/2020/Indicium.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="knapsack" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="leetcode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/knapsack.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="plates" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Robot Path">
+    <configuration name="Bike Tour" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -132,7 +68,73 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/KickStart/2020/plates.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/KickStart/2020/Bike Tour.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Bus Tour" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/KickStart/2020" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/KickStart/2020/Bus Tour.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Robot Path" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/KickStart/2020" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/KickStart/2020/Robot Path.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="asg3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodeJam/2020" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodeJam/2020/asg3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -164,19 +166,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Indicium" />
-      <item itemvalue="Python.887. Super Egg Drop" />
-      <item itemvalue="Python.plates" />
+      <item itemvalue="Python.asg3" />
+      <item itemvalue="Python.Bike Tour" />
+      <item itemvalue="Python.Bus Tour" />
+      <item itemvalue="Python.Robot Path" />
       <item itemvalue="Python.test" />
-      <item itemvalue="Python.knapsack" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.plates" />
+        <item itemvalue="Python.Robot Path" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.knapsack" />
-        <item itemvalue="Python.887. Super Egg Drop" />
-        <item itemvalue="Python.Indicium" />
+        <item itemvalue="Python.Bus Tour" />
+        <item itemvalue="Python.Bike Tour" />
+        <item itemvalue="Python.asg3" />
       </list>
     </recent_temporary>
   </component>
@@ -245,7 +247,9 @@
       <workItem from="1583295300576" duration="4133000" />
       <workItem from="1583602474633" duration="9758000" />
       <workItem from="1585966308769" duration="52005000" />
-      <workItem from="1586224577459" duration="43298000" />
+      <workItem from="1586224577459" duration="56113000" />
+      <workItem from="1586898492263" duration="636000" />
+      <workItem from="1587250851798" duration="22815000" />
     </task>
     <task id="LOCAL-00001" summary="change readme">
       <created>1577643276460</created>
@@ -338,7 +342,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586224715750</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="update">
+      <created>1586452346842</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1586452346842</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -379,17 +390,17 @@
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="385" y="216" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1280.760@0.0.1280.760" timestamp="1580939867590" />
-    <state x="322" y="0" key="CommitChangelistDialog2" timestamp="1586224715218">
+    <state x="322" y="0" key="CommitChangelistDialog2" timestamp="1586452346267">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="161" y="0" key="CommitChangelistDialog2/0.0.1280.760@0.0.1280.760" timestamp="1580924140718" />
-    <state x="322" y="0" key="CommitChangelistDialog2/3840.279.1280.770/0.0.2560.1400@0.0.2560.1400" timestamp="1586224715218" />
+    <state x="322" y="0" key="CommitChangelistDialog2/3840.279.1280.770/0.0.2560.1400@0.0.2560.1400" timestamp="1586452346267" />
     <state x="842" y="251" key="FileChooserDialogImpl" timestamp="1582214183970">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="421" y="136" key="FileChooserDialogImpl/0.0.1280.760@0.0.1280.760" timestamp="1579476470414" />
     <state x="842" y="251" key="FileChooserDialogImpl/3840.279.1280.770/0.0.2560.1400@0.0.2560.1400" timestamp="1582214183970" />
-    <state width="1233" height="316" key="GridCell.Tab.0.bottom" timestamp="1586452245306">
+    <state width="1235" height="285" key="GridCell.Tab.0.bottom" timestamp="1587357158715">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1237" height="179" key="GridCell.Tab.0.bottom/0.0.1280.760/-1920.266.1920.1040@0.0.1280.760" timestamp="1579039891405" />
@@ -397,9 +408,9 @@
     <state width="1238" height="223" key="GridCell.Tab.0.bottom/0.0.1280.760/2560.0.1920.1040@0.0.1280.760" timestamp="1581465117155" />
     <state width="1878" height="219" key="GridCell.Tab.0.bottom/0.0.1280.760/2560.0.1920.1040@2560.0.1920.1040" timestamp="1581374553703" />
     <state width="1233" height="349" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1586118760311" />
-    <state width="1233" height="316" key="GridCell.Tab.0.bottom/3840.279.1280.770/0.0.2560.1400@0.0.2560.1400" timestamp="1586452245306" />
+    <state width="1235" height="285" key="GridCell.Tab.0.bottom/3840.279.1280.770/0.0.2560.1400@0.0.2560.1400" timestamp="1587357158715" />
     <state width="1237" height="177" key="GridCell.Tab.0.bottom/3840.279.1280.770/0.0.2560.1400@3840.279.1280.770" timestamp="1579742311738" />
-    <state width="1233" height="316" key="GridCell.Tab.0.center" timestamp="1586452245305">
+    <state width="1235" height="285" key="GridCell.Tab.0.center" timestamp="1587357158715">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1237" height="179" key="GridCell.Tab.0.center/0.0.1280.760/-1920.266.1920.1040@0.0.1280.760" timestamp="1579039891401" />
@@ -407,9 +418,9 @@
     <state width="1238" height="223" key="GridCell.Tab.0.center/0.0.1280.760/2560.0.1920.1040@0.0.1280.760" timestamp="1581465117155" />
     <state width="1878" height="219" key="GridCell.Tab.0.center/0.0.1280.760/2560.0.1920.1040@2560.0.1920.1040" timestamp="1581374553703" />
     <state width="1233" height="349" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1586118760311" />
-    <state width="1233" height="316" key="GridCell.Tab.0.center/3840.279.1280.770/0.0.2560.1400@0.0.2560.1400" timestamp="1586452245305" />
+    <state width="1235" height="285" key="GridCell.Tab.0.center/3840.279.1280.770/0.0.2560.1400@0.0.2560.1400" timestamp="1587357158715" />
     <state width="1237" height="177" key="GridCell.Tab.0.center/3840.279.1280.770/0.0.2560.1400@3840.279.1280.770" timestamp="1579742311738" />
-    <state width="1233" height="316" key="GridCell.Tab.0.left" timestamp="1586452245305">
+    <state width="1235" height="285" key="GridCell.Tab.0.left" timestamp="1587357158715">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1237" height="179" key="GridCell.Tab.0.left/0.0.1280.760/-1920.266.1920.1040@0.0.1280.760" timestamp="1579039891401" />
@@ -417,9 +428,9 @@
     <state width="1238" height="223" key="GridCell.Tab.0.left/0.0.1280.760/2560.0.1920.1040@0.0.1280.760" timestamp="1581465117155" />
     <state width="1878" height="219" key="GridCell.Tab.0.left/0.0.1280.760/2560.0.1920.1040@2560.0.1920.1040" timestamp="1581374553703" />
     <state width="1233" height="349" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1586118760311" />
-    <state width="1233" height="316" key="GridCell.Tab.0.left/3840.279.1280.770/0.0.2560.1400@0.0.2560.1400" timestamp="1586452245305" />
+    <state width="1235" height="285" key="GridCell.Tab.0.left/3840.279.1280.770/0.0.2560.1400@0.0.2560.1400" timestamp="1587357158715" />
     <state width="1237" height="177" key="GridCell.Tab.0.left/3840.279.1280.770/0.0.2560.1400@3840.279.1280.770" timestamp="1579742311738" />
-    <state width="1233" height="316" key="GridCell.Tab.0.right" timestamp="1586452245305">
+    <state width="1235" height="285" key="GridCell.Tab.0.right" timestamp="1587357158715">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1237" height="179" key="GridCell.Tab.0.right/0.0.1280.760/-1920.266.1920.1040@0.0.1280.760" timestamp="1579039891401" />
@@ -427,38 +438,38 @@
     <state width="1238" height="223" key="GridCell.Tab.0.right/0.0.1280.760/2560.0.1920.1040@0.0.1280.760" timestamp="1581465117155" />
     <state width="1878" height="219" key="GridCell.Tab.0.right/0.0.1280.760/2560.0.1920.1040@2560.0.1920.1040" timestamp="1581374553703" />
     <state width="1233" height="349" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1586118760311" />
-    <state width="1233" height="316" key="GridCell.Tab.0.right/3840.279.1280.770/0.0.2560.1400@0.0.2560.1400" timestamp="1586452245305" />
+    <state width="1235" height="285" key="GridCell.Tab.0.right/3840.279.1280.770/0.0.2560.1400@0.0.2560.1400" timestamp="1587357158715" />
     <state width="1237" height="177" key="GridCell.Tab.0.right/3840.279.1280.770/0.0.2560.1400@3840.279.1280.770" timestamp="1579742311738" />
-    <state width="1233" height="349" key="GridCell.Tab.1.bottom" timestamp="1586450383091">
+    <state width="1235" height="349" key="GridCell.Tab.1.bottom" timestamp="1587264452516">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1233" height="349" key="GridCell.Tab.1.bottom/0.0.1280.760@0.0.1280.760" timestamp="1586118760311" />
-    <state width="1233" height="349" key="GridCell.Tab.1.bottom/3840.279.1280.770/0.0.2560.1400@0.0.2560.1400" timestamp="1586450383091" />
-    <state width="1233" height="349" key="GridCell.Tab.1.center" timestamp="1586450383091">
+    <state width="1235" height="349" key="GridCell.Tab.1.bottom/3840.279.1280.770/0.0.2560.1400@0.0.2560.1400" timestamp="1587264452516" />
+    <state width="1235" height="349" key="GridCell.Tab.1.center" timestamp="1587264452516">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1233" height="349" key="GridCell.Tab.1.center/0.0.1280.760@0.0.1280.760" timestamp="1586118760311" />
-    <state width="1233" height="349" key="GridCell.Tab.1.center/3840.279.1280.770/0.0.2560.1400@0.0.2560.1400" timestamp="1586450383091" />
-    <state width="1233" height="349" key="GridCell.Tab.1.left" timestamp="1586450383091">
+    <state width="1235" height="349" key="GridCell.Tab.1.center/3840.279.1280.770/0.0.2560.1400@0.0.2560.1400" timestamp="1587264452516" />
+    <state width="1235" height="349" key="GridCell.Tab.1.left" timestamp="1587264452516">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1233" height="349" key="GridCell.Tab.1.left/0.0.1280.760@0.0.1280.760" timestamp="1586118760311" />
-    <state width="1233" height="349" key="GridCell.Tab.1.left/3840.279.1280.770/0.0.2560.1400@0.0.2560.1400" timestamp="1586450383091" />
-    <state width="1233" height="349" key="GridCell.Tab.1.right" timestamp="1586450383091">
+    <state width="1235" height="349" key="GridCell.Tab.1.left/3840.279.1280.770/0.0.2560.1400@0.0.2560.1400" timestamp="1587264452516" />
+    <state width="1235" height="349" key="GridCell.Tab.1.right" timestamp="1587264452516">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1233" height="349" key="GridCell.Tab.1.right/0.0.1280.760@0.0.1280.760" timestamp="1586118760311" />
-    <state width="1233" height="349" key="GridCell.Tab.1.right/3840.279.1280.770/0.0.2560.1400@0.0.2560.1400" timestamp="1586450383091" />
+    <state width="1235" height="349" key="GridCell.Tab.1.right/3840.279.1280.770/0.0.2560.1400@0.0.2560.1400" timestamp="1587264452516" />
     <state x="795" y="481" key="SettingsEditor" timestamp="1585968005763">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="142" y="23" key="SettingsEditor/0.0.1280.760/2560.0.1920.1040@0.0.1280.760" timestamp="1581361558213" />
     <state x="795" y="481" key="SettingsEditor/3840.279.1280.770/0.0.2560.1400@0.0.2560.1400" timestamp="1585968005763" />
-    <state x="466" y="210" key="Vcs.Push.Dialog.v2" timestamp="1586224740710">
+    <state x="466" y="210" key="Vcs.Push.Dialog.v2" timestamp="1586452354946">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="233" y="114" key="Vcs.Push.Dialog.v2/0.0.1280.760@0.0.1280.760" timestamp="1580924146376" />
-    <state x="466" y="210" key="Vcs.Push.Dialog.v2/3840.279.1280.770/0.0.2560.1400@0.0.2560.1400" timestamp="1586224740710" />
+    <state x="466" y="210" key="Vcs.Push.Dialog.v2/3840.279.1280.770/0.0.2560.1400@0.0.2560.1400" timestamp="1586452354946" />
     <state width="837" height="703" key="XDebugger.FullValuePopup" timestamp="1581280889805">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -469,8 +480,10 @@
     <SUITE FILE_PATH="coverage/LeetCode$bs.coverage" NAME="bs Coverage Results" MODIFIED="1577918330542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$print_heap.coverage" NAME="print_heap Coverage Results" MODIFIED="1578882785802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$staircase.coverage" NAME="staircase Coverage Results" MODIFIED="1578249962777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/LeetCode$test.coverage" NAME="test Coverage Results" MODIFIED="1586319836171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodeJam/2020" />
+    <SUITE FILE_PATH="coverage/LeetCode$Bus_Tour.coverage" NAME="Bus Tour Coverage Results" MODIFIED="1587257664700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KickStart/2020" />
+    <SUITE FILE_PATH="coverage/LeetCode$test.coverage" NAME="test Coverage Results" MODIFIED="1587356961301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodeJam/2020" />
     <SUITE FILE_PATH="coverage/LeetCode$q3.coverage" NAME="q3 Coverage Results" MODIFIED="1586035848336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodeJam/2020" />
+    <SUITE FILE_PATH="coverage/LeetCode$Bike_Tour.coverage" NAME="Bike Tour Coverage Results" MODIFIED="1587252624567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KickStart/2020" />
     <SUITE FILE_PATH="coverage/LeetCode$16__3Sum_Closest.coverage" NAME="16. 3Sum Closest Coverage Results" MODIFIED="1580669703354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$Indicium.coverage" NAME="Indicium Coverage Results" MODIFIED="1586112378564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodeJam/2020" />
     <SUITE FILE_PATH="coverage/LeetCode$RBC_test.coverage" NAME="RBC_test Coverage Results" MODIFIED="1579468498299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -483,6 +496,7 @@
     <SUITE FILE_PATH="coverage/LeetCode$22__Generate_Parentheses.coverage" NAME="22. Generate Parentheses Coverage Results" MODIFIED="1581135672829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$2_Add_two_numbers.coverage" NAME="2 Add two numbers Coverage Results" MODIFIED="1578192557747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$11__Container_With_Most_Water.coverage" NAME="11. Container With Most Water Coverage Results" MODIFIED="1579791654371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode$Pattern_Matching.coverage" NAME="Pattern Matching Coverage Results" MODIFIED="1586572979461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodeJam/2020" />
     <SUITE FILE_PATH="coverage/LeetCode$q5Xin.coverage" NAME="q5Xin Coverage Results" MODIFIED="1586064441660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodeJam/2020" />
     <SUITE FILE_PATH="coverage/LeetCode$20__Valid_Parentheses.coverage" NAME="20. Valid Parentheses Coverage Results" MODIFIED="1580926512647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$Nesting_Depth.coverage" NAME="Nesting Depth Coverage Results" MODIFIED="1586021747719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodeJam/2020" />
@@ -497,13 +511,16 @@
     <SUITE FILE_PATH="coverage/LeetCode$17__Letter_Combinations_of_a_Phone_Number.coverage" NAME="17. Letter Combinations of a Phone Number Coverage Results" MODIFIED="1580757893983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$14__Longest_Common_Prefix.coverage" NAME="14. Longest Common Prefix Coverage Results" MODIFIED="1580020020029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$shell_sort.coverage" NAME="shell_sort Coverage Results" MODIFIED="1580675025221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode$Robot_Path.coverage" NAME="Robot Path Coverage Results" MODIFIED="1587357158704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KickStart/2020" />
     <SUITE FILE_PATH="coverage/LeetCode$main.coverage" NAME="main Coverage Results" MODIFIED="1582223240003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hash_Code/HashCode2020" />
+    <SUITE FILE_PATH="coverage/LeetCode$Pascal_Walk.coverage" NAME="Pascal Walk Coverage Results" MODIFIED="1586898511860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodeJam/2020" />
     <SUITE FILE_PATH="coverage/LeetCode$39__Combination_Sum.coverage" NAME="39. Combination Sum Coverage Results" MODIFIED="1581377473712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$7__Reverse_Integer.coverage" NAME="7. Reverse Integer Coverage Results" MODIFIED="1579791652533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$Matrix.coverage" NAME="Matrix Coverage Results" MODIFIED="1583610528690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$matrix_mult.coverage" NAME="matrix_mult Coverage Results" MODIFIED="1583610525490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$3_Longest_substring.coverage" NAME="3 Longest substring Coverage Results" MODIFIED="1578248988320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$12__Integer_to_Roman.coverage" NAME="12. Integer to Roman Coverage Results" MODIFIED="1580671866696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode$asg3.coverage" NAME="asg3 Coverage Results" MODIFIED="1586898516842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodeJam/2020" />
     <SUITE FILE_PATH="coverage/LeetCode$15__3Sum.coverage" NAME="15. 3Sum Coverage Results" MODIFIED="1580595465414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$HashCode_2019.coverage" NAME="HashCode_2019 Coverage Results" MODIFIED="1582220342463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hash_Code/qualification_round_2019.in" />
     <SUITE FILE_PATH="coverage/LeetCode$200__Number_of_Island.coverage" NAME="200. Number of Island Coverage Results" MODIFIED="1578693785817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
