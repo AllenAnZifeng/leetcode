@@ -18,7 +18,7 @@ def print_heap(arr:list):
     #     arr=arr[counter:]
     #     counter*=2
 
-    for level in range(int(math.log(len(arr),2))+1):
+    for level in range(int(math.log(len(arr)+1,2))+1):
         for _ in range(2**level):
             if len(arr)!=0:
                 print(arr.pop(0),end=' ')
@@ -63,7 +63,7 @@ def heapify_down(arr:List[int]):
 def build_max_heap(arr:List[int]):
     for i in range(len(arr)):
         heapify_up(arr,i)
-    # print_heap(arr)
+    print_heap(arr)
 
 
 def heap_sort(arr:List[int]):

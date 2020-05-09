@@ -15,8 +15,10 @@ def insertion_sort(arr:list):
         for j in range(i,0,-1):
             if arr[j]<arr[j-1]:
                 arr[j],arr[j-1]=arr[j-1],arr[j]
+
             else:
                 break
+        print(arr)
     return arr
 print(insertion_sort(a))
 
