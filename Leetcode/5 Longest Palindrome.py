@@ -75,9 +75,11 @@ class Solution:
         while l>=0 and r<len(s) and s[l]==s[r]:
             l-=1
             r+=1
+
         if len(s[l+1:r]) > len(ans):
             return s[l+1:r]
         else:
             return ans
+
 a=Solution()
-print(a.longestPalindrome('a'))
+print(a.longestPalindrome('abbc'))

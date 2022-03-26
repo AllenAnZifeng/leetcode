@@ -24,7 +24,7 @@ def binary_search(l:list,target:int):
             high=mid-1
     return -1
 
-v=binary_search(a,6)
+v=binary_search(a,1)
 print(v)
 # for i in range(len(a)):
 #     print(a[i],i)

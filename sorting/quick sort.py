@@ -13,3 +13,4 @@ def qs(l:list):
         return qs(left)+[pivot]+qs(right)
 
 print(qs([5, 4, 8, 6, 7, 9, 1, 2, 5]))
+

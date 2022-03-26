@@ -92,25 +92,25 @@
 
 
 
-class Solution:
-    def superEggDrop(self, k: int, n: int) -> int:
-
-        dp=[i for i in range(n+1)]
-
-        for i in range(k-1):
-            m = 1  # drop at level m
-            ndp=[float('inf') for _ in range(n+1)]
-            for j in range(n+1):
-                if j==0 or j==1:
-                    ndp[j]=j
-                else:
-                    while dp[m-1]<ndp[j-m]:
-                        m+=1
-                    ndp[j] = dp[m-1]+1
-            dp=ndp
-
-        return dp[-1]
-
- # min([1+max(dropTable[k-1][i-1],dropTable[k][n-i])
-
-print(Solution().superEggDrop(2,7)) #4
+# class Solution:
+#     def superEggDrop(self, k: int, n: int) -> int:
+#
+#         dp=[i for i in range(n+1)]
+#
+#         for i in range(k-1):
+#             m = 1  # drop at level m
+#             ndp=[float('inf') for _ in range(n+1)]
+#             for j in range(n+1):
+#                 if j==0 or j==1:
+#                     ndp[j]=j
+#                 else:
+#                     while dp[m-1]<ndp[j-m]:
+#                         m+=1
+#                     ndp[j] = dp[m-1]+1
+#             dp=ndp
+#
+#         return dp[-1]
+#
+#  # min([1+max(dropTable[k-1][i-1],dropTable[k][n-i])
+#
+# print(Solution().superEggDrop(2,7)) #4
