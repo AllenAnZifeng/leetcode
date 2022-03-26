@@ -7,5 +7,4 @@ print("This is my LeetCode Solution!")
 ```
 `This is in line code`
 
-*italic*
-**bold**
+
