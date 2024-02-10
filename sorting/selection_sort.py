@@ -4,7 +4,7 @@
 @author: Allen(Zifeng) An
 @course: 
 @contact: anz8@mcmaster.ca
-@file: test.py
+@file: perm2.py
 @time: 2020/1/8 16:45
 '''
 
