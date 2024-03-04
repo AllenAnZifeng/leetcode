@@ -193,3 +193,5 @@ if __name__ == '__main__':
     results = producer.results(skills, maxLines)
     for r in results:
         print(r)
+
+    print()
