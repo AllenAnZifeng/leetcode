@@ -5,15 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c485d76e-80cb-4383-a033-2e8ce2f4619c" name="Default" comment="add files">
-      <change afterPath="$PROJECT_DIR$/Blind75/Week10 Greedy/calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Blind75/Week10 Greedy/ixl.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Blind75/Week10 Greedy/ixl2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Blind75/Week10 Greedy/jump.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Blind75/Week10 Greedy/mike_ixl.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Past interview Questions/cliphealth.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Past interview Questions/imbue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Past interview Questions/lark.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Past interview Questions/weride.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Blind75/OOD/elevator_pycharm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Blind75/OOD/parking_from_car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Blind75/OOD/parking_from_lot_perspective.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Blind75/Week 11 DP/palin_substring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Blind75/Week10 Greedy/MIKE_ixl_test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,10 +52,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Unittests for MIKE_ixl_test.TestSkillPageProducer.test_skill_prioritization.executor": "Run",
+    "Python tests.Unittests for MIKE_ixl_test.TestSkillPageProducer.test_valid_line_count.executor": "Run",
+    "Python tests.Unittests in MIKE_ixl_test.py.executor": "Run",
     "Python.calculator.executor": "Run",
     "Python.chess.executor": "Run",
     "Python.cliphealth.executor": "Run",
     "Python.decor.executor": "Run",
+    "Python.elevator.executor": "Run",
     "Python.imbue.executor": "Run",
     "Python.ixl.executor": "Run",
     "Python.ixl2.executor": "Run",
@@ -69,6 +69,8 @@
     "Python.latch2.executor": "Run",
     "Python.onsite.executor": "Run",
     "Python.ood.executor": "Run",
+    "Python.parking.executor": "Run",
+    "Python.parking_from_car.executor": "Run",
     "Python.perm2 (1).executor": "Run",
     "Python.q2.executor": "Run",
     "Python.randomLeetcode.executor": "Run",
@@ -76,6 +78,7 @@
     "Python.weride.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "master",
@@ -86,8 +89,14 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "advanced.settings",
+    "settings.editor.selected.configurable": "Errors",
+    "settings.editor.splitter.proportion": "0.27522936",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
@@ -103,8 +112,8 @@
       <recent name="C:\My_Project\ALLEN_Python\LeetCode\school\audio" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ixl2">
-    <configuration name="calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.palin_substring">
+    <configuration name="elevator_pycharm" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -113,12 +122,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Blind75/Week10 Greedy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Blind75/OOD" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Blind75/Week10 Greedy/calculator.py" />
+      <option name="SCRIPT_NAME" value="C:\My_Project\ALLEN_Python\LeetCode\Blind75\OOD\elevator_pycharm.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,7 +136,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="imbue" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="palin_substring" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -136,12 +145,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Past interview Questions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Blind75/Week 11 DP" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Past interview Questions/imbue.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Blind75/Week 11 DP/palin_substring.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,7 +159,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ixl" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="parking_from_car" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -159,12 +168,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Blind75/Week10 Greedy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Blind75/OOD" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Blind75/Week10 Greedy/ixl.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Blind75/OOD/parking_from_car.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,7 +182,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ixl2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="parking_from_lot_perspective" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -182,12 +191,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Blind75/Week10 Greedy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Blind75/OOD" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Blind75/Week10 Greedy/ixl2.py" />
+      <option name="SCRIPT_NAME" value="C:\My_Project\ALLEN_Python\LeetCode\Blind75\OOD\parking_from_lot_perspective.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -196,43 +205,36 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="jump" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests in MIKE_ixl_test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Blind75/Week10 Greedy" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Blind75/Week10 Greedy/jump.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Blind75/Week10 Greedy/MIKE_ixl_test.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.ixl2" />
-      <item itemvalue="Python.imbue" />
-      <item itemvalue="Python.ixl" />
-      <item itemvalue="Python.calculator" />
-      <item itemvalue="Python.jump" />
+      <item itemvalue="Python.elevator_pycharm" />
+      <item itemvalue="Python.palin_substring" />
+      <item itemvalue="Python.parking_from_car" />
+      <item itemvalue="Python.parking_from_lot_perspective" />
+      <item itemvalue="Python tests.Unittests in MIKE_ixl_test.py" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ixl2" />
-        <item itemvalue="Python.jump" />
-        <item itemvalue="Python.ixl" />
-        <item itemvalue="Python.imbue" />
-        <item itemvalue="Python.calculator" />
+        <item itemvalue="Python.palin_substring" />
+        <item itemvalue="Python.elevator_pycharm" />
+        <item itemvalue="Python.parking_from_car" />
+        <item itemvalue="Python.parking_from_lot_perspective" />
+        <item itemvalue="Python tests.Unittests in MIKE_ixl_test.py" />
       </list>
     </recent_temporary>
   </component>
@@ -406,7 +408,8 @@
       <workItem from="1708832044269" duration="6572000" />
       <workItem from="1709166216794" duration="5489000" />
       <workItem from="1709246575168" duration="19527000" />
-      <workItem from="1709428187054" duration="9643000" />
+      <workItem from="1709428187054" duration="34450000" />
+      <workItem from="1709862773055" duration="12090000" />
     </task>
     <task id="LOCAL-00001" summary="change readme">
       <created>1577643276460</created>
@@ -656,6 +659,7 @@
     <SUITE FILE_PATH="coverage/LeetCode$Matrix.coverage" NAME="Matrix Coverage Results" MODIFIED="1583610528690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$valid_parentheses.coverage" NAME="valid_parentheses Coverage Results" MODIFIED="1637285852637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Past interview Questions/Amazon OA prep" />
     <SUITE FILE_PATH="coverage/LeetCode$q3.coverage" NAME="q3 Coverage Results" MODIFIED="1696570386621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Past interview Questions/Barclay" />
+    <SUITE FILE_PATH="coverage/LeetCode$parking_from_car.coverage" NAME="parking_from_car Coverage Results" MODIFIED="1709864855196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Blind75/OOD" />
     <SUITE FILE_PATH="coverage/LeetCode$throttling.coverage" NAME="throttling Coverage Results" MODIFIED="1634951643433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Past interview Questions/Amazon OA prep" />
     <SUITE FILE_PATH="coverage/LeetCode$q.coverage" NAME="q Coverage Results" MODIFIED="1699173683507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Blind75/Week7 Linked List" />
     <SUITE FILE_PATH="coverage/LeetCode$fm_signal.coverage" NAME="fm_signal Coverage Results" MODIFIED="1682545366934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/school/audio" />
@@ -666,6 +670,8 @@
     <SUITE FILE_PATH="coverage/LeetCode$Pascal_Walk.coverage" NAME="Pascal Walk Coverage Results" MODIFIED="1586898511860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodeJam/2020" />
     <SUITE FILE_PATH="coverage/LeetCode$calculator.coverage" NAME="calculator Coverage Results" MODIFIED="1709193087733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Blind75/Week10 Greedy" />
     <SUITE FILE_PATH="coverage/LeetCode$210__Course_Schedule_II.coverage" NAME="210. Course Schedule II Coverage Results" MODIFIED="1579144189608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode$Unittests_in_MIKE_ixl_test_py.coverage" NAME="Unittests in MIKE_ixl_test.py Coverage Results" MODIFIED="1709619436684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Blind75/Week10 Greedy" />
+    <SUITE FILE_PATH="coverage/LeetCode$elevator.coverage" NAME="elevator Coverage Results" MODIFIED="1709882338188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Blind75/OOD" />
     <SUITE FILE_PATH="coverage/LeetCode$card_number.coverage" NAME="card_number Coverage Results" MODIFIED="1589048982143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$jump.coverage" NAME="jump Coverage Results" MODIFIED="1709461904961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Blind75/Week10 Greedy" />
     <SUITE FILE_PATH="coverage/LeetCode$supply.coverage" NAME="supply Coverage Results" MODIFIED="1697790903914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Past interview Questions/Old mission" />
@@ -714,6 +720,7 @@
     <SUITE FILE_PATH="coverage/LeetCode$q__2_.coverage" NAME="q (2) Coverage Results" MODIFIED="1699951762978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Blind75/Week 8 Stack" />
     <SUITE FILE_PATH="coverage/LeetCode$Longest_Valid_Parentheses.coverage" NAME="Longest Valid Parentheses Coverage Results" MODIFIED="1637284346011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Past interview Questions/Amazon OA prep" />
     <SUITE FILE_PATH="coverage/LeetCode$7__Reverse_Integer.coverage" NAME="7. Reverse Integer Coverage Results" MODIFIED="1579791652533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode$parking.coverage" NAME="parking Coverage Results" MODIFIED="1709703669154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Blind75/OOD" />
     <SUITE FILE_PATH="coverage/LeetCode$200__Number_of_Island.coverage" NAME="200. Number of Island Coverage Results" MODIFIED="1578693785817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$Bus_Tour.coverage" NAME="Bus Tour Coverage Results" MODIFIED="1587407352370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KickStart/2020" />
     <SUITE FILE_PATH="coverage/LeetCode$sort_the_summary.coverage" NAME="sort_the_summary Coverage Results" MODIFIED="1635027858024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Past interview Questions/Amazon OA prep" />
@@ -751,6 +758,7 @@
     <SUITE FILE_PATH="coverage/LeetCode$rotate_matrix.coverage" NAME="rotate_matrix Coverage Results" MODIFIED="1637561167404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Past interview Questions/Amazon OA prep" />
     <SUITE FILE_PATH="coverage/LeetCode$diamond.coverage" NAME="diamond Coverage Results" MODIFIED="1589049018591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$14__Longest_Common_Prefix.coverage" NAME="14. Longest Common Prefix Coverage Results" MODIFIED="1580020020029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode$Unittests_for_MIKE_ixl_test_TestSkillPageProducer_test_skill_prioritization.coverage" NAME="Unittests for MIKE_ixl_test.TestSkillPageProducer.test_skill_prioritization Coverage Results" MODIFIED="1709619116383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Blind75/Week10 Greedy" />
     <SUITE FILE_PATH="coverage/LeetCode$21__Merge_Two_Sorted_Lists.coverage" NAME="21. Merge Two Sorted Lists Coverage Results" MODIFIED="1580926597329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$maximizing_profit.coverage" NAME="maximizing_profit Coverage Results" MODIFIED="1676187976522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Past interview Questions" />
     <SUITE FILE_PATH="coverage/LeetCode$question1.coverage" NAME="question1 Coverage Results" MODIFIED="1610550325837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Past interview Questions/ibm_backend" />
@@ -761,6 +769,7 @@
     <SUITE FILE_PATH="coverage/LeetCode$matrix2.coverage" NAME="matrix2 Coverage Results" MODIFIED="1591249812667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$unique_name.coverage" NAME="unique_name Coverage Results" MODIFIED="1635091601476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Past interview Questions/Amazon OA prep" />
     <SUITE FILE_PATH="coverage/LeetCode$question.coverage" NAME="question Coverage Results" MODIFIED="1699848207721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Past interview Questions/Citadel" />
+    <SUITE FILE_PATH="coverage/LeetCode$Unittests_for_MIKE_ixl_test_TestSkillPageProducer_test_valid_line_count.coverage" NAME="Unittests for MIKE_ixl_test.TestSkillPageProducer.test_valid_line_count Coverage Results" MODIFIED="1709618957062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Blind75/Week10 Greedy" />
     <SUITE FILE_PATH="coverage/LeetCode$randomLeetcode.coverage" NAME="randomLeetcode Coverage Results" MODIFIED="1707763081822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Past interview Questions/latch" />
     <SUITE FILE_PATH="coverage/LeetCode$19__Remove_Nth_Node_From_End_of_List.coverage" NAME="19. Remove Nth Node From End of List Coverage Results" MODIFIED="1580923160824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$units_on_a_truck.coverage" NAME="units on a truck Coverage Results" MODIFIED="1635031298918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Past interview Questions/Amazon OA prep" />
