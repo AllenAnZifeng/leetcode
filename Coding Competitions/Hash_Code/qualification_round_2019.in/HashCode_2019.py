@@ -37,7 +37,7 @@ def score(slideshow1:Slideshow,slideshow2:Slideshow)->int:
 
 
 if __name__ == '__main__':
-    with open('b_lovely_landscapes.txt','r') as f:
+    with open('b_lovely_landscapes.txt', 'r') as f:
         file = f.read()
     file=file.split('\n')
     file.pop(-1) # remove white space in the end
