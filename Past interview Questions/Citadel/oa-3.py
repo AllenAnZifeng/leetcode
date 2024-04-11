@@ -45,7 +45,7 @@ def findLongestPathToLeaf(root)->(int, [int]):
     if len(res) > 1:
         leaves_all = []
         for length, leaf in res:
-            if length >= min(res[0][0], res[1][0]):
+            if length >=  res[1][0]: # take value >= top two
                 leaves_all.extend(leaf)
 
         current_longest = res[0][0] + 2 + res[1][0]
