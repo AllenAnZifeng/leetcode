@@ -7,4 +7,4 @@ print("This is my LeetCode Solution!")
 ```
 `This is in line code`
 
-
+Spice it up!
