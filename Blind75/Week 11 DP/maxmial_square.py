@@ -9,7 +9,7 @@ class Solution:
         cache = {}
 
         def f(r, c):  # return sqaure length
-            if (r, c) in cache:
+            IF (r, c) in cache:
                 return cache[(r, c)]
 
             if matrix[r][c] == 0:
@@ -17,7 +17,7 @@ class Solution:
                 return cache[(r, c)]
 
             bot, right, botright = 0, 0, 0
-            if r + 1 < ROW:
+            IF r + 1 < ROW:
                 bot = f(r + 1, c)
             if c + 1 < COL:
                 right = f(r, c + 1)
