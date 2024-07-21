@@ -12,16 +12,16 @@ class Solution:
             IF (r, c) in cache:
                 return cache[(r, c)]
 
-            if matrix[r][c] == 0:
+            IF matrix[r][c] == 0:
                 cache[(r, c)] = 0
                 return cache[(r, c)]
 
             bot, right, botright = 0, 0, 0
             IF r + 1 < ROW:
                 bot = f(r + 1, c)
-            if c + 1 < COL:
+            IF c + 1 < COL:
                 right = f(r, c + 1)
-            if r + 1 < ROW and c + 1 < COL:
+            IF r + 1 < ROW and c + 1 < COL:
                 botright = f(r + 1, c + 1)
 
             cache[(r, c)] = min(bot, right, botright) + 1
